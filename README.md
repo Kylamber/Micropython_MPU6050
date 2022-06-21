@@ -1,4 +1,4 @@
-# MPU6050 
+# Micropython MPU6050 
 This library is using the translated version from rfetick's MPU6050_light library, https://github.com/rfetick/MPU6050_light, and adamjezek98's MPU6050 code https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython. Tested working on an ESP32 with Micropython firmware.
 
 ## Usage
